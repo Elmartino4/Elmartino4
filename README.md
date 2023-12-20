@@ -1,16 +1,14 @@
-### Hi there 👋
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+I'm+Martin+B;Elmartino4&center=true&size=30">
+  </a>
+</h1>
 
-<!--
-**Elmartino4/Elmartino4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<p align=center>
+  [![GitHub Streak](https://streak-stats.demolab.com?user=Elmartino4&theme=dark&border_radius=0&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Elmartino4)](https://github.com/anuraghazra/github-readme-stats)
+</p>
