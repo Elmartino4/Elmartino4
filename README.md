@@ -10,5 +10,5 @@
 <p align=center>
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Elmartino4&theme=radical&hide_border=true&border_radius=0&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=350" alt="GitHub Streak" /></a>
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Elmartino4&theme=radical&card_width=350)](https://github.com/anuraghazra/github-readme-stats)
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elmartino4&theme=radical&card_width=350" alt="Top Langs" /></a>
 </p>
